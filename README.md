@@ -61,7 +61,7 @@ Fitbit Fitness Tracker dataset
 
 ## 🖥 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Bellabeat-Activity-Analysis/Dashboard.png)
 
 ---
 
