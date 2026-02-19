@@ -61,7 +61,7 @@ Fitbit Fitness Tracker dataset
 
 ## 🖥 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
